@@ -32,15 +32,15 @@ retrievable storage.
 
 | Repo | What |
 | --- | --- |
-| [**prova**](./prova) | Umbrella + cross-cutting docs |
-| [**cli**](./cli) | `@prova-network/cli` — the `prova` command |
-| [**sdk**](./sdk) | `@prova-network/sdk` + `core` — TypeScript SDK |
-| [**contracts**](./contracts) | Solidity contracts (Base) |
-| [**prover**](./prover) | `provad` — the Go prover daemon |
-| [**website**](./website) | The prova.network site |
-| [**desktop**](./desktop) | Electron prover wrapper |
-| [**brand**](./brand) | Logos, diagrams, brand kit |
-| [**docs**](./docs) | docs.prova.network source |
+| [**prova**](https://github.com/prova-network/prova) | Umbrella + cross-cutting docs |
+| [**cli**](https://github.com/prova-network/cli) | `@prova-network/cli` — the `prova` command |
+| [**sdk**](https://github.com/prova-network/sdk) | `@prova-network/sdk` + `core` — TypeScript SDK |
+| [**contracts**](https://github.com/prova-network/contracts) | Solidity contracts (Base) |
+| [**prover**](https://github.com/prova-network/prover) | `provad` — the Go prover daemon |
+| [**website**](https://github.com/prova-network/website) | The [prova.network](https://prova.network) site |
+| [**desktop**](https://github.com/prova-network/desktop) | Electron prover wrapper |
+| [**brand**](https://github.com/prova-network/brand) | Logos, diagrams, brand kit |
+| [**docs**](https://github.com/prova-network/docs) | [docs.prova.network](https://docs.prova.network) source |
 
 ## Try it
 
